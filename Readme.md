@@ -1,10 +1,6 @@
-# Expo Modal QR Code Scanner
 
-This project is an example of using BarCodeScanner to read QR Codes in Expo managed applications.
 
-Video lesson (PT-BR): https://youtu.be/f3XZpuMxdOE
-
-## Dependencies
+## dependencies
 
 - `$ expo install expo-barcode-scanner`
 - `$ expo install expo-permissions`
